@@ -38,3 +38,5 @@ build
 *.swo
 
 chess-engine
+
+.DS_Store
